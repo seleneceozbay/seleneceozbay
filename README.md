@@ -1,17 +1,17 @@
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=exhaust963" alt="gargakshit" /> </p>
 <p align="center">
-<a href="https://linkedin.com/in/baran-özkan-091889151" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="20" width="20" /></a>&nbsp;
-<a href="https://www.facebook.com/baran.ozkan.374" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="20" width="20" /></a>
-<a href="https://www.instagram.com/brnozkan"><img align="center" alt="İnstagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" /></a>
+<a href="https://linkedin.com/in/selen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="20" width="20" /></a>&nbsp;
+<a href="https://www.facebook.com/selen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="20" width="20" /></a>
+<a href="https://www.instagram.com/selen"><img align="center" alt="İnstagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" /></a>
 </p>
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ### About Me:
 - 🏦  I’m currently working on Turkish Petroleum
-- 💬 Ask me about **.Net, .Net Core, and React **
-- 📫 How to reach me baranozkan1996@hotmail.com
+- 💬 Ask me about **Android, Matlab, and Java **
+- 📫 How to reach me s.eceozbay@gmail.com
 
 <p align="center">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
@@ -28,5 +28,5 @@
 
 ---
 ### My Github stats:
-![exhaust963's github stats](https://github-readme-stats.vercel.app/api?username=exhaust963&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exhaust963&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/exhaust963/github-readme-stats)
+![exhaust963's github stats](https://github-readme-stats.vercel.app/api?username=seleneceozbay&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exhaust963&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/seleneceozbay/github-readme-stats)
