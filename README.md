@@ -2,8 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seleneceozbay" alt="gargakshit" /> </p>
 <p align="center">
 <a href="https://linkedin.com/in/seleneceozbay/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="20" width="20" /></a>&nbsp;
-<a href="https://www.facebook.com/selen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="20" width="20" /></a>
-<a href="https://www.instagram.com/selen"><img align="center" alt="İnstagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" /></a>
+<a href="https://www.instagram.com/seleneceozbay/"><img align="center" alt="İnstagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" /></a>
 </p>
 
 ![](https://pro2-bar-s3-cdn-cf6.myportfolio.com/17a47d9e8f4727ce5f3e48805b2d8eb2/04a3ee86-755b-412f-b40e-5c132340eeac.gif?h=60723397fedde1e9e4ccfe18d8e62270)
