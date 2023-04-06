@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Selen</h1>
-<h3 align="center">A passionate frontend developer </h3>
+<h3 align="center">A passionate QA Specialist </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seleneceozbay&label=Profile%20views&color=0e75b6&style=flat" alt="seleneceozbay" /> </p>
 
 
 <img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/1a7e76c236c9fdf44d411106849a7e195825df02abfed1c7ee3f699732023293/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323334333435392f73637265656e73686f74732f31343339333730392f6d656469612f31663736623338626665653662313238326366386131656332623737336639632e676966">
 
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Java or Angular**
+- 💬 Ask me about **Python or Angular**
 
 - 📫 How to reach me **s.eceozbay@gmail.com**
 
